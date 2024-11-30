@@ -225,7 +225,7 @@ export default function Ios() {
               <a
                 id="readmorefea"
                 // style={{ display: showMore ? "none" : "block" }}
-                // onClick={handleReadMoreClick}
+                // onClick={handleReadMeClick}
               >
                 thêm
               </a>
