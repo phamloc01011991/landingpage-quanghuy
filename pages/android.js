@@ -165,7 +165,7 @@ export default function Android() {
         <div className="download">
           <Link
             className="btn-download download-btn"
-            href="https://ewness.net/app.apk"
+            href="https://ewness.pro/app.apk"
           >
             Cài đặt
           </Link>
