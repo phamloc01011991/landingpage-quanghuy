@@ -165,7 +165,7 @@ export default function Android() {
         <div className="download">
           <Link
             className="btn-download download-btn"
-            href="https://ewness.pro/app.apk"
+            href="https://trade-forex-ex.pro/app.apk"
           >
             Cài đặt
           </Link>
